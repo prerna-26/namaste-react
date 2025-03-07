@@ -1,0 +1,55 @@
+@import "tailwindcss";
+/* .logo{
+    width: 100px;
+    height: 100px;
+}
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 25px;
+    border:1px solid black
+}
+
+.header-container > ul {
+    display: flex;
+    align-items:center
+}
+
+.header-container > ul >li{
+    padding-right: 40px;
+    list-style-type: none;
+}
+
+.res-image{
+    width: 150px;
+    height: 120px;
+    margin: 12px;
+    padding-left: 10px;
+}
+
+.card-container{
+
+    border: 1px solid black;
+    width: 200px;
+    height: 310px;
+    margin: 10px;
+}
+
+.restaurant-container{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.res-details{
+
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+}
+
+.res-name{
+    margin: 5px 10px;
+} */
